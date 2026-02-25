@@ -14,3 +14,6 @@ Visual Studio Code
 1. Install qrcode library
 2. Run qrcode.py
 3. QR code image will be generated as myqr.png
+
+##Output:
+  https://github.com/Tanushree-U/QRCode-generator/blob/main/myqr.png
